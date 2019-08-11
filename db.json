@@ -1,5 +1,6 @@
 {
-  "profile":[
+  "profile":{
+    "list":[
       {
           "organiza": "上海",
           "founder": "三明治",
@@ -22,4 +23,5 @@
           "id":3
        }
     ]
+  }
 }
