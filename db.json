@@ -1,11 +1,11 @@
 {
   "data":{
-    list:[
+    "list":[
         {
-          organiza: "测试",
-          founder: "刘利军",
-          activityName: "国庆活动",
-          key: "1"
+          "organiza": "测试",
+          "founder": "刘利军",
+          "activityName": "国庆活动",
+          "key": "1"
         }
    ]
   }
