@@ -1,7 +1,8 @@
 {
   "profile":{
     "code":200,
-    "data":[
+    "list":{
+      "data":[
         {
           "organiza": "测试",
           "founder": "刘利军",
@@ -9,6 +10,6 @@
           "key": "1",
           "id":1,
         }
-      ]
+      ]}
   }
 }
