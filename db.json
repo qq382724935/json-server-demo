@@ -1,25 +1,25 @@
 {
   "profile":[
-        {
+      {
           "organiza": "上海",
           "founder": "三明治",
           "activityName": "五一",
           "key": "1",
-          "id":1,
+          "id":1
         },
      {
           "organiza": "北京",
           "founder": "汉堡包",
           "activityName": "国庆活动",
           "key": "2",
-          "id":2,
+          "id":2
         },
      {
           "organiza": "附件",
           "founder": "大熊猫",
           "activityName": "元旦",
           "key": "3",
-          "id":3,
-        }
-      ]
+          "id":3
+       }
+    ]
 }
