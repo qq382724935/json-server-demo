@@ -1,16 +1,12 @@
 {
   "profile":{
-    "list":[
-      {
-      "code":200,
-      "data":[
+    "list"[
         {
           "organiza": "测试",
           "founder": "刘利军",
           "activityName": "国庆活动",
           "key": "1"
-        }}
-   ]
-    ]
+        }
+      ]
   }
 }
