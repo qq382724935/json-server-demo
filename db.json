@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "organiza": "Post 1","founder": "大熊猫","activityName": "国庆活动" },
+    { "id": 2, "organiza": "Post 2","founder": "大熊猫","activityName": "双十一活动" },
+    { "id": 3, "organiza": "Post 3","founder": "大熊猫","activityName": "五一活动" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
