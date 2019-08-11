@@ -1,27 +1,14 @@
 {
-  "profile":{
-    "list":[
-      {
-          "organiza": "上海",
-          "founder": "三明治",
-          "activityName": "五一",
-          "key": "1",
-          "id":1
-        },
-     {
-          "organiza": "北京",
-          "founder": "汉堡包",
-          "activityName": "国庆活动",
-          "key": "2",
-          "id":2
-        },
-     {
-          "organiza": "附件",
-          "founder": "大熊猫",
-          "activityName": "元旦",
-          "key": "3",
-          "id":3
-       }
-    ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
