@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "post": [
     { "id": 1, "organiza": "Post 1","founder": "大熊猫","activityName": "国庆活动" },
     { "id": 2, "organiza": "Post 2","founder": "大熊猫","activityName": "双十一活动" },
     { "id": 3, "organiza": "Post 3","founder": "大熊猫","activityName": "五一活动" }
